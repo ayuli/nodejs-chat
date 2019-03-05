@@ -411,13 +411,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths>
       <path value="$PROJECT_DIR$/node_modules/debug/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/is-typedarray/package.json" />
       <path value="$PROJECT_DIR$/node_modules/ms/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/nan/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/nan/tools/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/typedarray-to-buffer/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/websocket/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/yaeti/package.json" />
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
@@ -425,8 +419,8 @@
     <servers />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="462" />
-    <option name="y" value="15" />
+    <option name="x" value="341" />
+    <option name="y" value="1" />
     <option name="width" value="1138" />
     <option name="height" value="677" />
   </component>
@@ -476,15 +470,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1551679700416</updated>
-      <workItem from="1551679702106" duration="5014000" />
+      <workItem from="1551679702106" duration="5390000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5014000" />
+    <option name="totallyTimeSpent" value="5390000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="462" y="15" width="1138" height="677" extended-state="0" />
+    <frame x="210" y="71" width="1138" height="677" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
